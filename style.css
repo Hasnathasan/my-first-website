@@ -1,0 +1,109 @@
+.header{
+	width:90%;
+	margin: auto;
+    margin-bottom: 0px;
+    border-radius: 3px;
+    background-color: aquamarine;
+}
+.clear{
+    clear: both;
+}
+
+.introduce{
+    width: 45%;
+    background-color: aquamarine;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 10px;
+    float: left;
+}
+.introduce img{
+    width: 25%;
+    border: 2px solid white;
+    border-radius: 15px;
+    float: left;
+}
+.introduce h1,h3{
+    font-family: arial;
+    float: left;
+    margin-left: 10px;
+}
+.anchor-tag{
+    width: 45%;
+    background-color: aquamarine;
+    box-sizing: border-box;
+    padding: 10px;
+    float: right;
+}
+.anchor-tag p a{
+    color: rgb(11, 192, 132);
+    text-decoration: none;
+}
+hr{
+    border: 2px solid black;
+    border-top: 0px solid black;
+}
+.main{
+    width: 90%;
+	margin: auto;
+    height: 828px;
+    margin-top: 0px;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 3px;
+    background-color: aquamarine;
+}
+.slide-1{
+    width: 30%;
+    float: left;
+    margin-bottom: 40px;
+   
+}
+.slide-1 h1{
+    margin:0px;
+}
+.slide-2{
+    float:right;
+    width:70%;
+    
+}
+.slide-3{
+    width: 30%;
+    float: left;
+    margin-bottom: 40px;
+   
+}
+.slide-4{
+    float:right;
+    width:70%;
+    
+}
+.slide-5{
+    float: left;
+    width: 35%;
+    
+}
+.slide-6{
+    float: right;
+    width: 35%;
+    
+}
+.footer{
+    background-color: black;
+    width: 90%;
+    height: 200px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    border-radius: 3px;
+    
+}
+.footer h1{
+    color: white;
+    font-family: arial;
+    text-transform: uppercase;
+    
+    position: absolute;
+    top: 70px;
+    left: 45%;
+}
